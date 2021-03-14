@@ -1,14 +1,15 @@
 #Weather Forecast App
+
+
+
 Weather Forecast App Using Python 3
 
 #What does app do?
+
+
+
 it forecast weather of a selected city.
 
-#files contained
-
-um.png : Image used in the program
-output_screen.png : Final Result of the program
-Weather.py : Implementation of the Weather App
 
 #Module Used
 => GUI Module Used : Tkinter
